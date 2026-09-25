@@ -1,95 +1,39 @@
-# Hi, I'm Enam Kwame Avornyo
+# Enam Kwame Avornyo
 
-Software Engineer with 5+ years of experience building modern web applications, backend systems, mobile applications, and practical business software.
+Software engineer building backend systems, web and mobile applications, and practical business software.
 
-I work across full-stack development, backend API design, mobile applications, cloud-ready systems, and business workflow automation. I also have hands-on experience working remotely across multiple time zones and international work experience collaborating with distributed teams.
+I work across API design, full-stack development, mobile workflows, database-backed systems, automation, and cloud-ready delivery. I care about clear architecture, maintainable code, reliable testing, useful documentation, and software that solves real operational problems.
 
-My focus is on building clean, maintainable, and useful software that solves real operational problems.
+## Engineering focus
 
-## About Me
+- Backend APIs and service design
+- Full-stack web applications
+- Mobile and offline-first workflows
+- Business process automation
+- Database modelling and integrations
+- Dockerized development and CI/CD
+- Technical documentation and maintainable delivery
 
-I am a software engineer with experience in modern web technologies including JavaScript, TypeScript, React, Node.js, backend API development, database modelling, and cloud-ready application architecture.
-
-My work is centered around practical engineering: designing systems that are understandable, maintainable, testable, and useful in real business environments.
-
-I have hands-on experience working remotely across multiple time zones and collaborating in international work environments. This has given me practical exposure to distributed engineering workflows, asynchronous communication, cross-team collaboration, and real-world software delivery.
-
-I am currently building and refining my public engineering portfolio to showcase production-style projects, technical documentation, clean architecture, CI/CD, Dockerized development, and deployable software systems.
-
-## Core Engineering Focus
-
-- Full-stack web application development
-- Backend API design and implementation
-- RESTful service architecture
-- Database modelling and optimization
-- Authentication and authorization
-- Business workflow automation
-- Mobile application development
-- Remote collaboration across multiple time zones
-- International software delivery experience
-- Dockerized development environments
-- CI/CD with GitHub Actions
-- Technical documentation and maintainable codebases
-
-## EAV Labs
-
-**EAV Labs** is my personal engineering lab and portfolio brand.
-
-It represents a collection of practical, production-style software projects designed to demonstrate my engineering ability across backend systems, mobile apps, cloud-ready services, and business software workflows.
-
-EAV Labs is not just a set of demo apps. It is a structured portfolio initiative focused on building realistic software systems that reflect how modern applications are planned, developed, tested, documented, and deployed.
-
-## Featured EAV Labs Projects
-
-### EAV Insight
-
-A FastAPI backend for document intake, operational reporting, and searchable business records.
-
-**Stack:** Python, FastAPI, PostgreSQL, Redis, Docker, GitHub Actions.
-
-**Focus areas:** API design, authentication, async processing, search, structured data, and backend documentation.
-
----
-
-### EAV Field
-
-An Expo React Native mobile app for field inspections, offline reporting, and backend sync.
-
-**Stack:** React Native, Expo, TypeScript, local storage, API integration.
-
-**Focus areas:** Mobile UI, offline-first workflows, form handling, inspection reports, and field operations.
-
----
-
-### EAV Dispatch
-
-A Spring Boot microservice for shipments, drivers, vehicles, delivery assignments, and logistics workflows.
-
-**Stack:** Java, Spring Boot, PostgreSQL, Docker, GitHub Actions.
-
-**Focus areas:** Enterprise backend design, service boundaries, workflow modelling, testing, and logistics operations.
-
----
-
-### EAV Ledger
-
-A Laravel API for customers, invoices, payments, receipts, subscriptions, and billing workflows.
-
-**Stack:** PHP, Laravel, Eloquent ORM, PostgreSQL/MySQL, Docker.
-
-**Focus areas:** Business systems, billing workflows, authorization, reporting, and API-driven financial operations.
-
-## Technical Stack
+## Technologies
 
 ```text
-JavaScript • TypeScript • React • Node.js
-Python • FastAPI • Java • Spring Boot
-PHP • Laravel • React Native • Expo
-PostgreSQL • MySQL • Redis • Docker • GitHub Actions
+JavaScript · TypeScript · React · Node.js
+Python · FastAPI · Java · Spring Boot
+PHP · Laravel · React Native · Expo
+PostgreSQL · MySQL · Redis · Docker · GitHub Actions
 ```
 
-## Connect With Me
+## Check out some of my projects
 
-- **LinkedIn:** [linkedin.com/in/enamk/](https://www.linkedin.com/in/enamk/)
-- **Portfolio:** [enamavornyo.pages.dev](https://portfolio.enamavornyo.workers.dev/)
+I build and refine practical portfolio projects under **EAV Labs**:
+
+- [**EAV Insight**](https://github.com/eav-labs-dev/eav-insight-api) — FastAPI backend for document intake, operational reporting, and searchable business records.
+- [**EAV Field**](https://github.com/eav-labs-dev/eav-field-mobile) — Offline-first React Native app for field inspections, evidence capture, and synchronization.
+- [**EAV Dispatch**](https://github.com/eav-labs-dev/eav-dispatch-service) — Spring Boot logistics API for shipments, drivers, vehicles, assignments, and auditable dispatch workflows.
+- [**EAV Ledger**](https://github.com/eav-labs-dev/eav-ledger-api) — Laravel billing API for customers, invoices, payments, receipts, and related business workflows.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/enamk/)
+- [Portfolio](https://portfolio.enamavornyo.workers.dev/)
 - **Email:** enamavornyo@gmail.com
