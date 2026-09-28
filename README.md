@@ -1,39 +1,29 @@
-# Enam Kwame Avornyo
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Enam Avornyo — Full-stack Software Engineer" width="100%" />
+</p>
 
-Software engineer building backend systems, web and mobile applications, and practical business software.
+I’m a **full-stack software engineer** who designs and builds web, mobile, backend, and cloud-ready software for real workflows.
 
-I work across API design, full-stack development, mobile workflows, database-backed systems, automation, and cloud-ready delivery. I care about clear architecture, maintainable code, reliable testing, useful documentation, and software that solves real operational problems.
+My work spans product interfaces, APIs, React Native applications, database-backed systems, integrations, automation, testing, and delivery. I care about clear architecture, maintainable code, useful documentation, and software that solves practical problems.
 
-## Engineering focus
+### Build · Solve · Ship · Repeat
 
-- Backend APIs and service design
-- Full-stack web applications
-- Mobile and offline-first workflows
-- Business process automation
-- Database modelling and integrations
-- Dockerized development and CI/CD
-- Technical documentation and maintainable delivery
+- **Web:** React, Next.js, TypeScript, JavaScript
+- **Mobile:** React Native, Expo
+- **Backend:** Node.js, NestJS, Python, FastAPI, Java, Spring Boot, PHP, Laravel
+- **Data & delivery:** PostgreSQL, MySQL, Redis, Docker, GitHub Actions, cloud services
 
-## Technologies
+## Selected work
 
-```text
-JavaScript · TypeScript · React · Node.js
-Python · FastAPI · Java · Spring Boot
-PHP · Laravel · React Native · Expo
-PostgreSQL · MySQL · Redis · Docker · GitHub Actions
-```
+Some of my independent engineering work lives under **[EAV Labs](https://github.com/eav-labs-dev)** — a personal engineering lab where I build and document production-style software systems.
 
-## Check out some of my projects
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| [**EAV Insight**](https://github.com/eav-labs-dev/eav-insight-api) | Document intake, operational reporting, searchable business records | FastAPI · PostgreSQL · Docker |
+| [**EAV Field**](https://github.com/eav-labs-dev/eav-field-mobile) | Offline-first field inspections, evidence capture, synchronization | React Native · Expo · TypeScript |
+| [**EAV Dispatch**](https://github.com/eav-labs-dev/eav-dispatch-service) | Logistics, assignments, shipment lifecycles, audit history | Java · Spring Boot · PostgreSQL |
+| [**EAV Ledger**](https://github.com/eav-labs-dev/eav-ledger-api) | Billing, invoices, payments, and business workflows | PHP · Laravel · PostgreSQL |
 
-I build and refine practical portfolio projects under **EAV Labs**:
+## Elsewhere
 
-- [**EAV Insight**](https://github.com/eav-labs-dev/eav-insight-api) — FastAPI backend for document intake, operational reporting, and searchable business records.
-- [**EAV Field**](https://github.com/eav-labs-dev/eav-field-mobile) — Offline-first React Native app for field inspections, evidence capture, and synchronization.
-- [**EAV Dispatch**](https://github.com/eav-labs-dev/eav-dispatch-service) — Spring Boot logistics API for shipments, drivers, vehicles, assignments, and auditable dispatch workflows.
-- [**EAV Ledger**](https://github.com/eav-labs-dev/eav-ledger-api) — Laravel billing API for customers, invoices, payments, receipts, and related business workflows.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/enamk/)
-- [Portfolio](https://portfolio.enamavornyo.workers.dev/)
-- **Email:** enamavornyo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/enamk/) · [Portfolio](https://portfolio.enamavornyo.workers.dev/) · [EAV Labs](https://github.com/eav-labs-dev) · **enamavornyo@gmail.com**
