@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Enam Avornyo — Full-stack Software Engineer" width="100%" />
+  <img src="./assets/profile-hero.png" alt="Enam Avornyo, Software Engineer: reliable software systems for complex business operations." width="100%" />
 </p>
 
 I’m a **full-stack software engineer** who designs and builds web, mobile, backend, and cloud-ready software for real workflows.
