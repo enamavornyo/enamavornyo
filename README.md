@@ -26,4 +26,4 @@ Some of my independent engineering work lives under **[EAV Labs](https://github.
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/enamk/) · [Portfolio](https://portfolio.enamavornyo.workers.dev/) · [EAV Labs](https://github.com/eav-labs-dev) · **enamavornyo@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/enamk/) · [Portfolio](https://enamavornyo.env.pm) · [EAV Labs](https://github.com/eav-labs-dev) · **enamavornyo@gmail.com**
